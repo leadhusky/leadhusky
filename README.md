@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leadhusky
+- 👀 I’m interested in tech of all sorts
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything I can learn from
+- 📫 How to reach me: still figuring that out
